@@ -1,0 +1,6 @@
+<Patient>
+  <PatientID>002</PatientID>
+  <Name>Krisa Joshi</Name>
+  <!-- Missing Age element -->
+  <Diagnosis>Cold</Diagnosis>
+</Patient>

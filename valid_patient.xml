@@ -1,0 +1,6 @@
+<Patient>
+  <PatientID>007</PatientID>
+  <Name>Madhav Sharma</Name>
+  <Age>30</Age>
+  <Diagnosis>Flu</Diagnosis>
+</Patient>
